@@ -1,0 +1,10 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif
+}
+header{
+    height: 100px;
+    background-color: #4455ff;  
+    text-align: center;
+}
